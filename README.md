@@ -2,10 +2,10 @@
 
  <div>
   
-   <a href="https://github.com/santana-victor">
+   <a href="https://github.com/Santana-Victor">
    <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=santana-victor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santana-victor&layout=compact&langs_count=6&theme=tokyonight"/>
+    src="https://github-readme-stats.vercel.app/api?username=Santana-Victor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santana-Victor&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 
@@ -18,6 +18,7 @@
   <img align="center" alt="Reactjs" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">&nbsp;&nbsp;
   <img align="center" alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">&nbsp;&nbsp;
   <img align="center" alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">&nbsp;&nbsp;
+  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F">&nbsp;&nbsp;
   
 </div>
  
@@ -26,9 +27,8 @@
   ### Quer entrar em contato comigo? Links abaixo!
  
 <div>
- 
-  <a href="https://www.linkedin.com/in/victor-santana-9821a0236/" target="_blank">
-   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
+
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santanavictor592@gmail.com)
+ [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/victor-santana-9821a0236/)
   
 </div>
